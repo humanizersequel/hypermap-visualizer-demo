@@ -9,8 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "buffer": "^6.0.3",
+    "next": "15.2.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.2.4"
+    "reactflow": "^11.11.4",
+    "web3": "^4.16.0"
   }
 }
